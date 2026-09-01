@@ -4,3 +4,4 @@ PyYAML
 MarkupSafe
 requests>=1.0.0
 distro>=1.5
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
